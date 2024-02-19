@@ -1,7 +1,9 @@
 
 const Signup = () => {
   return (
-    <div>Signup</div>
+    <div className="container mx-auto px-32 py-20">
+        
+    </div>
   )
 }
 
