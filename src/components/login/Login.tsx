@@ -5,7 +5,7 @@ const Login = () => {
   return (
     <div>
         <SignupIn src={img}>
-            <h1 className="text-3xl text-red-800 text-center">Login here</h1>
+            <h1 className="">Login here</h1>
         </SignupIn>
     </div>
   )
